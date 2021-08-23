@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service_response>
+	<auth>
+		<request_ip_address>65.44.199.130</request_ip_address>
+		<request_datetime>20111013153904</request_datetime>
+		<request_account>UserID</request_account>
+	</auth>
+	<request>
+		<call_id>20111013153904-68d139</call_id>
+		<executed>trustee-bidinstruction</executed>
+		<execution_time>5958.65</execution_time>
+		<response>success</response>
+		<errors/>
+		<warnings/>
+		<request_parameters>
+			<call_id>20111013153904-68d139</call_id>
+			<trustee_id>Sample Trustee Corp</trustee_id>
+			<trustee_reference_number>CA-11-123456-AB</trustee_reference_number>
+			<trustee_reference_id>385820</trustee_reference_id>
+			<bid_type>Specified</bid_type>
+			<minimum_bid>200000.00</minimum_bid>
+			<maximum_bid>100.00</maximum_bid>
+			<bid_increment></bid_increment>
+			<bid_expiration_date>2012-02-05</bid_expiration_date>
+			<nos_amount>359852.24</nos_amount>
+			<seller_value></seller_value>
+			<bpo_value></bpo_value>
+			<auto_value></auto_value>
+			<net_present_value></net_present_value>
+			<bid_source></bid_source>
+			<mi_company></mi_company>
+			<comments></comments>
+		</request_parameters>
+		<response_parameters>
+			<api_ping>Trustee Inbound Bid Instruction</api_ping>
+		</response_parameters>
+	</request>
+</service_response>

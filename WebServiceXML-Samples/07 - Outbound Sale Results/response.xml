@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service_response>
+	<request>
+		<response>success</response>
+		<errors>
+			<error>
+				<code>01</code>
+				<description>update complete</description>
+			</error>
+		</errors>
+		<request_parameters>
+			<call_id>20111013153904-68d139</call_id>
+			<trustee_id>Attorney Firm</trustee_id>
+			<transmit_date>2013-12-28T13:15:42</transmit_date>
+			<trustee_reference_number>CA-11-422864-AB</trustee_reference_number>
+			<trustee_reference_id>385820</trustee_reference_id>
+			<result_of_sale>
+				<sold_date>2013-12-28T13:00:00</sold_date>
+				<sale_result>SOLDTOTHIRDPARTY</sale_result>
+				<sold_price>92500.00</sold_price>
+				<purchaser_name>Bobco FLP</purchaser_name>
+				<purchaser_vesting>Bobco</purchaser_vesting>
+				<purchaser_street_1>1234 Hillside Ave.</purchaser_street_1>
+				<purchaser_street_2/>
+				<purchaser_street_3/>
+				<purchaser_city>Henderson</purchaser_city>
+				<purchaser_state>NV</purchaser_state>
+				<purchaser_zip>99999</purchaser_zip>
+				<purchaser_phone>(555)777-7777</purchaser_phone>
+				<purchaser_fax/>
+				<purchaser_email/>
+				<purchaser_rep_name>John Flynn</purchaser_rep_name>
+				<purchaser_rep_phone/>
+				<purchaser_rep_email/>
+				<purchaser_rep_driver_license/>
+				<purchaser_rep_ssn/>
+				<document>
+					<type>SALES RESULTS</type>
+					<name>745_2011-09-21.PDF</name>
+					<format>PDF</format>
+					<!-- cdata base 64 encode raw pdf data -->
+					<data/>
+				</document>
+			</result_of_sale>
+		</request_parameters>
+	</request>
+</service_response>

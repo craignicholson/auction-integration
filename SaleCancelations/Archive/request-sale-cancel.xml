@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service_call>
+	<request>
+		<parameters>
+			<call_id>20111013153904-68d139</call_id>
+			<pub_post_serve_id>01Auction</pub_post_serve_id>
+			<pub_post_server_order_number>Auction#385820</pub_post_server_order_number>
+			<pub_post_serve_reference_id>Auction#385820</pub_post_serve_reference_id>
+			<trustee_id>Quality Loan Service Corporation</trustee_id>
+			<transmit_date>2011-10-13T15:39:02</transmit_date>
+			<trustee_reference_number>CA-11-422864-AB</trustee_reference_number>
+			<trustee_reference_id>385820</trustee_reference_id>
+			<sale_date_time>2011-11-29T09:00:00</sale_date_time>
+			<reason>Sale cancelled due to close and bill instructions in LS</reason>
+		</parameters>
+	</request>
+</service_call>

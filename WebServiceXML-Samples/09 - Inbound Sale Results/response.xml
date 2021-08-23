@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service_response>
+<auth>
+	<request_ip_address>10.1.14.5</request_ip_address>
+	<request_datetime>20140717142418</request_datetime>
+	<request_account>inbound-sales-results-test</request_account>
+</auth>
+<request>
+	<call_id>201407150055538-bpg771</call_id>
+	<executed>trustee-inbound-sales-results</executed>
+	<execution_time>237.83</execution_time>
+	<response>success</response><errors/><warnings/>
+	<request_parameters>
+		<trustee_reference_number>INBOUND031</trustee_reference_number>
+		<trustee_reference_id>Test031</trustee_reference_id>
+		<trustee_id>Test Firm</trustee_id>
+		<call_id>201407150055538-bpg771</call_id>
+			<result_of_sale>
+				<sold_date>2014-08-02T09:00:00</sold_date>
+				<sale_result>SOLDTOTHIRDPARTY</sale_result>
+				<winning_bid>491160.00</winning_bid>
+				<nos_amount>359852.24</nos_amount> 
+				<seller_value>300000</seller_value> 
+				<purchaser_name>Monica Smith</purchaser_name>
+				<purchaser_companyname>Smith Realty</purchaser_companyname>
+				<vesting>Smith Realty</vesting>
+				<purchaser_bidder_street_1>7 Cherry South</purchaser_bidder_street_1>
+				<purchaser_city>Irvine</purchaser_city>
+				<purchaser_state>CA</purchaser_state>
+				<purchaser_zip>92612</purchaser_zip>
+				<purchaser_phone>(555)777-7777</purchaser_phone>
+				<purchaser_email>MSmith@gmail.com</purchaser_email>
+			</result_of_sale>
+	</request_parameters>
+	<response_parameters>
+		<api_ping>Trustee Inbound Sales Results</api_ping>
+	</response_parameters>
+</request>
+</service_response>

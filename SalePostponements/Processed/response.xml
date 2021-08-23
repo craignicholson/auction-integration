@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service_response>
+	<auth>
+		<request_ip_address>65.44.199.130</request_ip_address>
+		<request_datetime>20111013155452</request_datetime>
+		<request_account>mh</request_account>
+	</auth>
+	<request>
+		<call_id>20111013155452-08182b</call_id>
+		<executed>trustee-postpone</executed>
+		<execution_time>9308.06</execution_time>
+		<response>success</response>
+		<errors/>
+		<warnings/>
+		<request_parameters>
+			<call_id>20111013155452-08182b</call_id>
+			<pub_post_serve_id>01Auction</pub_post_serve_id>
+			<pub_post_server_order_number>Auction#411299</pub_post_server_order_number>
+			<pub_post_serve_reference_id>Auction#411299</pub_post_serve_reference_id>
+			<trustee_id>Quality Loan Service Corporation</trustee_id>
+			<transmit_date>2013-10-13T15:54:52</transmit_date>
+			<trustee_reference_number>CA-11-448360-TC</trustee_reference_number>
+			<trustee_reference_id>411299</trustee_reference_id>
+			<postponement_id>987049</postponement_id>
+			<postponed_sale_date_time>2013-10-14T09:00:00</postponed_sale_date_time>
+			<new_sale_date_time>2014-11-14T09:00:00</new_sale_date_time>
+			<new_place_of_sale>At the Doubletree Hotel Los Angeles, Norwalk, 13111 Sycamore Drive, Norwalk, CA 90650 in the Vineyard Ballroom</new_place_of_sale>
+			<reason>Bankruptcy</reason>
+			<postponed_detail>In reference to our phone call</postponed_detail>
+		</request_parameters>
+		<response_parameters>
+			<api_ping>Trustee Postpone Auction Call</api_ping>
+		</response_parameters>
+	</request>
+</service_response>

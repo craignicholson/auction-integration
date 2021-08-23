@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service_call>
+	<parameters>
+		<call_id>20151013151008-8fa370</call_id>
+		<trustee_id>Sample Trustee Fullname</trustee_id>
+		<transmit_date>2015-10-13T15:10:08</transmit_date>
+		<trustee_reference_number>CA-10-401406-EV</trustee_reference_number>
+		<trustee_reference_id>364553</trustee_reference_id>
+		<beneficiary_name>Saxon Special Servicing</beneficiary_name>
+		<beneficiary_loan_number>2000543784</beneficiary_loan_number>
+		<servicer_name>Saxon Special Servicing</servicer_name>
+		<servicer_loan_number>2000543784</servicer_loan_number>
+		<servicer_phone>800-594-8422</servicer_phone>
+		<occupancy_status>Occupied</occupancy_status>
+		<auction_date>2015-11-12</auction_date>
+		<auction_time>09:00:00</auction_time>
+		<apn>169-445-24</apn>
+		<property_address_1>1716  LANDING DRIVE</property_address_1>
+		<property_address_2/>
+		<property_address_3/>
+		<property_city>VISTA</property_city>
+		<property_county>SAN DIEGO</property_county>
+		<property_state>CA</property_state>
+		<property_zip_code>92081</property_zip_code>
+		<trustor>CECILIA SMITH, A SINGLE WOMAN</trustor>
+		<trustor_deed_of_trust_date>2011-04-05</trustor_deed_of_trust_date>
+		<upb>400000.00</upb>
+		<nos_amount>444681.92</nos_amount>
+		<nod_date>2015-08-04</nod_date>
+		<nod_expiration_date>2015-03-04</nod_expiration_date>
+		<nos_date>2015-08-04</nos_date>
+		<trustee_firm_name>Home Auction Service Corporation</trustee_firm_name>
+		<trustee_phone>619-243-3956</trustee_phone>
+		<trustee_email/>
+		<pub_post_company_name>IQR Pub Service</pub_post_company_name>
+		<pub_post_company_phone/>
+		<publication_date>2015-11-10</publication_date>
+		<title_underwriter>LPS Default Title &amp; Closing - CA II</title_underwriter>
+		<title_tsg_date>2014-08-04</title_tsg_date>
+		<mi_company>GENWORTH MORTGAGE INSURANCE CORP</mi_company>
+		<sale_location>Sale will be held at Auction.com - Sale Location, Auction.com Room, San Francisco, CA</sale_location>
+		<payee_name>Robert Ballard</payee_name>
+		<dot_recording_doc>VOLUME 10713, PAGE 0709, DOCUMENT NO. 20040095074; File No. 2006041025</dot_recording_doc>
+		<dot_date>2015-10-25</dot_date>
+		<loan_type>FHA</loan_type>
+		<client_id>Bank of America</client_id>
+		<legal_description>Lot 73 of Evergreen Terrace as recorded in Volume 20 of Plats page 25, in Thurston County, Washington.</legal_description>
+		<original_beneficiary>Washington Mutual Bank</original_beneficiary>
+		<original_principal_amount>150000.00</original_principal_amount>
+		<final_judgment_amount>150000.00</final_judgment_amount>
+		<fha_case_number>varchar(25)</fha_case_number>
+        <lenstar_id>123894536</lenstar_id>
+        <sale_agent>Sheriff</sale_agent>
+		<gse_investor>FHLMC</gse_investor>
+	</parameters>
+</service_call>
